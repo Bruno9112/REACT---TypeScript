@@ -1,2 +1,2 @@
 # REACT---TypeScript
-<p>Projeto utilizando TypeScript</p>
+<p>Projetos utilizando TypeScript</p>
